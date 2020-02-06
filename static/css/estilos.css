@@ -1,0 +1,26 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+div{
+    background: #a6e1ec;
+    margin:10px;
+    padding:5px;
+}
+#A{
+    background: #398439;
+    width:50%;
+    text-align: center;
+    alignment-adjust: center;
+    
+}
+.BC{
+    color:#0000cc;
+}
+span{
+    color: yellow;
+}
+header h1{
+    background: #a6e1ec;
+    border-radius: 15px;
+}
